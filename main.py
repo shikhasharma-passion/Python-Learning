@@ -1,5 +1,17 @@
-# Snake Water Gun
-# Snake, Water and Gun is a variation of the children's game "rock-paper-scissors" where players use hand gestures to represent a snake, water, or a gun. The gun beats the snake, the water beats the gun, and the snake beats the water. Write a python program to create a Snake Water Gun game in Python using if-else statements. Do not create any fancy GUI. Use proper functions to check for win.
+# Snake, Water, Gun Game
+# Snake, Water and Gun is a variation of the children's game "Rock-Paper-Scissors".
+# In this game, players choose one of the following:
+# snake, water, or gun
+#
+# Rules of the game:
+# 1. Gun beats Snake
+# 2. Water beats Gun
+# 3. Snake beats Water
+# 4. If both players choose the same option, the game is a tie
+#
+# This program uses functions and if-else statements
+# to decide the winner. No GUI is used; input and output
+# are handled through the terminal.
 
 
 
